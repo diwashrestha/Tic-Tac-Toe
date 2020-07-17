@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ProCSharp-Tic-Tac-Toe" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\PROJECTS\\CSharp_Sandbox\\Tic-Tac-Toe\\Tic-Tac-Toe\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
