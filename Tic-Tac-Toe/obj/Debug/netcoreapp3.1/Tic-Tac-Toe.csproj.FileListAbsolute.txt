@@ -12,3 +12,17 @@ F:\PROJECTS\CSharp_Sandbox\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-T
 F:\PROJECTS\CSharp_Sandbox\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.genruntimeconfig.cache
 F:\PROJECTS\CSharp_Sandbox\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.csprojAssemblyReference.cache
 F:\PROJECTS\CSharp_Sandbox\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Settings.job
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.exe
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Settings.job
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.deps.json
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.runtimeconfig.json
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.runtimeconfig.dev.json
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.dll
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.pdb
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.csprojAssemblyReference.cache
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.AssemblyInfoInputs.cache
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.AssemblyInfo.cs
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.dll
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.pdb
+F:\PROJECTS\C#Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.genruntimeconfig.cache

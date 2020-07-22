@@ -86,8 +86,6 @@ namespace Tic_Tac_Toe
             {
                 Console.WriteLine("*** Have a great day! See You Again ***");
             }
-
-
             Console.Read();
         }
 
@@ -100,6 +98,7 @@ namespace Tic_Tac_Toe
             Console.WriteLine("[Player {0}] \n Enter the Coordinates: ",player);
             string coord = Console.ReadLine();
             char[] coordCharArray = coord.ToCharArray();
+
             char[,] gridInput = CheckUserCoord(coordCharArray, grid2DArray, ref player);
             return gridInput;
         }
@@ -111,9 +110,16 @@ namespace Tic_Tac_Toe
         {
             int number;
             int[] userCoord = new int[2];
-            if(Int32.TryParse(userCharCoord, out number) == false)
+
+            // Checking the size of the coordinates
+            if(userCharCoord.Length != 2)
             {
-                Console.WriteLine("Enter Number only!");
+                 Console.WriteLine(" Error!!! Coordinates must be two digit numbers. \n  Enter Correct Coordinates.");
+                 TakeUserCoord(gridInput, ref player);
+            }
+            else if(Int32.TryParse(userCharCoord, out number) == false)
+            {
+                Console.WriteLine("Error!!! Try again Enter Number only: ");
                 TakeUserCoord(gridInput, ref player);
             }
             else
@@ -121,7 +127,7 @@ namespace Tic_Tac_Toe
                 userCoord = Array.ConvertAll(userCharCoord, c => (int)Char.GetNumericValue(c));
                 if (userCoord[0] > 3 || userCoord[0] < 1 || userCoord[1] > 3 || userCoord[1] < 1)
                 {
-                    Console.WriteLine("Coordinates should be from 1 to 3!");
+                    Console.WriteLine("Error!!! Coordinates must be from 1 to 3!. Plz Try Again...");
                     TakeUserCoord(gridInput, ref player);
                 }
 

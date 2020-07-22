@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PROJECTS\\CSharp_Sandbox\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj",
+      "projectUniqueName": "F:\\PROJECTS\\C#Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj",
       "projectName": "Tic-Tac-Toe",
-      "projectPath": "F:\\PROJECTS\\CSharp_Sandbox\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj",
+      "projectPath": "F:\\PROJECTS\\C#Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\PROJECTS\\CSharp_Sandbox\\Tic-Tac-Toe\\Tic-Tac-Toe\\obj\\",
+      "outputPath": "F:\\PROJECTS\\C#Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
